@@ -76,10 +76,23 @@ fastlane/readme.md
 
 # Version control
 vcs.xml
-
+my-first-android-app/node_modules/*
 # lint
 lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
