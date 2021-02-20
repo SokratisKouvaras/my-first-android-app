@@ -1,1 +1,1 @@
-# my-first-android-app
+# [An Expo native react applications](https://docs.expo.io/)
