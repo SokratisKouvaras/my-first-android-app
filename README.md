@@ -1,1 +1,1 @@
-# [An Expo native react applications](https://docs.expo.io/)
+# [An Expo native react application](https://docs.expo.io/)
